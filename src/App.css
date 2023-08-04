@@ -462,11 +462,12 @@ a{
     }
     .Phone{
         width: 100%;
-        min-height: 80%;
+        height: fit-content;
         padding: 0;
         position: relative;
         border-radius: 0;
         border: none;
+        background-color: red;
     }
     .inside{
         width: 100%;
@@ -475,6 +476,7 @@ a{
         flex-direction: column;
         align-items: center;
         position: relative;
+        background-color: green;
     }
     .shadow{
         top: 70px;
