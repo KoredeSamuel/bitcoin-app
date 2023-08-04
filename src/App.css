@@ -467,7 +467,6 @@ a{
         position: relative;
         border-radius: 0;
         border: none;
-        background-color: red;
     }
     .inside{
         width: 100%;
@@ -476,7 +475,6 @@ a{
         flex-direction: column;
         align-items: center;
         position: relative;
-        background-color: green;
     }
     .shadow{
         top: 70px;
